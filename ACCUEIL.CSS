@@ -1,0 +1,19 @@
+body{
+    background-image: url(IMAGES/crustacés.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    padding-top: 60px;
+}
+.content{
+    border: 1px solid black;
+    width: 350px;
+   border-radius: 15px;
+    background-color: #fff;
+}
+input{
+    width: 200px;
+}
+input[type=radio]{
+    width: auto;
+}
